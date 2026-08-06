@@ -4,7 +4,7 @@
 ### Finding the human story behind the numbers.
 
 <p align="center">
-  I am a Final-Year Management Information Systems student, <strong>Student Ambassador</strong>, and <strong>Vice President of the Data Analytics Society</strong> at Çankaya University, and an <strong>Erasmus+ Alum</strong> at Masaryk University. I work with data to answer one core question: <strong>what do the numbers reveal about how people actually behave?</strong> Whether I'm analyzing cultural shifts through Spotify streaming habits or building CRM recommendation engines, my focus is always on understanding not just <i>what</i> people do, but <i>why</i> they do it.
+  I am a Final-Year Management Information Systems student, <strong>Student Ambassador</strong>, and <strong>Former Vice President of the Data Analytics Society</strong> at Çankaya University, and an <strong>Erasmus+ Alum</strong> at Masaryk University. I work with data to answer one core question: <strong>what do the numbers reveal about how people actually behave?</strong> Whether I'm analyzing cultural shifts through Spotify streaming habits or building CRM recommendation engines, my focus is always on understanding not just <i>what</i> people do, but <i>why</i> they do it.
 </p>
 
 ---
