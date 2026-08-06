@@ -41,7 +41,7 @@ Customer conversion prediction leveraging 10-fold CV Logistic Regression, SVM, a
 
 Advanced financial econometric modeling comparing ARIMA, GAM, and LOESS smoothing techniques on historical 3M stock data to predict future market movements, acknowledging the limitations of univariate models against real-world exogenous shocks.
 
-#### [[05] CZECHIA ROAD SAFETY GEOSPATIAL DASHBOARD](https://github.com/bicerselimcan/PV251-Visualization)
+#### [[05] CZECHIA ROAD SAFETY GEOSPATIAL DASHBOARD](https://github.com/bicerselimcan/czechia-road-safety-dashboard)
 `Python` `Dash` `Plotly` `Geospatial`
 
 A geospatial visualization dashboard developed at Masaryk University using dynamic KPI metrics and interactive map layers. It transforms multi-dimensional traffic accident data from the Czech Police (*Policie ČR*) into an intuitive platform featuring multi-variable cross-filtering and regional drill-down analytics. Public safety made visible by mapping where road risk concentrates and affects real people.
