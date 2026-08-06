@@ -51,4 +51,10 @@ A geospatial visualization dashboard developed at Masaryk University using dynam
 
 An enterprise full-stack web application built on ASP.NET Core Razor Pages, Entity Framework Core, and MS SQL Server. Adheres strictly to S.O.L.I.D software design principles and features automated conflict-checking algorithms, holiday API integrations, and an automated SMTP email service.
 
+---
+
+### GET IN TOUCH
+<a href="mailto:bicermselimcan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/selimcanbicer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 </div>
