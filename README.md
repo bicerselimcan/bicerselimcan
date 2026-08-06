@@ -31,22 +31,22 @@ Combining cross-national Spotify listening data with Hofstede's cultural dimensi
 
 Corporate Data Internship at a prominent women's fashion & textile retail enterprise. Engineered an end-to-end data analytics architecture for a 30-store retail network, starting with a from-scratch MS Access database backbone. Built a Store × Variant Recommendation Engine and established tree-based behavioral predictions with A/B campaign ROI logic, validated through Monte Carlo LTV risk simulations. Crucially, I independently uncovered and resolved a severe zero-sales data omission that was artificially inflating daily sales velocity, preventing executive algorithms from misrepresenting actual consumer behavior.
 
-#### [03] PREDICTIVE MARKETING ANALYTICS
+#### [[03] PREDICTIVE MARKETING ANALYTICS](https://github.com/bicerselimcan/bank-marketing-response-prediction)
 `R` `Machine Learning` `Logistic Regression` `SVM` `Random Forest`
 
 Customer conversion prediction leveraging 10-fold CV Logistic Regression, SVM, and Random Forest algorithms. Modeled how people respond to marketing exposure, using classification methods to predict human choice and behavioral outcomes rather than just financial metrics.
 
-#### [04] ECONOMETRIC STOCK FORECASTING
+#### [[04] ECONOMETRIC STOCK FORECASTING](https://github.com/bicerselimcan/time-series-stock-forecasting-arima-gam)
 `R` `Time-Series` `ARIMA` `GAM`
 
 Advanced financial econometric modeling comparing ARIMA, GAM, and LOESS smoothing techniques on historical 3M stock data to predict future market movements, acknowledging the limitations of univariate models against real-world exogenous shocks.
 
-#### [05] CZECHIA ROAD SAFETY GEOSPATIAL DASHBOARD
+#### [[05] CZECHIA ROAD SAFETY GEOSPATIAL DASHBOARD](https://github.com/bicerselimcan/PV251-Visualization)
 `Python` `Dash` `Plotly` `Geospatial`
 
 A geospatial visualization dashboard developed at Masaryk University using dynamic KPI metrics and interactive map layers. It transforms multi-dimensional traffic accident data from the Czech Police (*Policie ČR*) into an intuitive platform featuring multi-variable cross-filtering and regional drill-down analytics. Public safety made visible by mapping where road risk concentrates and affects real people.
 
-#### [06] CLASSROOM RESERVATION SYSTEM
+#### [[06] CLASSROOM RESERVATION SYSTEM](https://github.com/bicerselimcan/dotnet-classroom-reservation-system)
 `C#` `.NET Core` `Razor Pages` `SQL`
 
 An enterprise full-stack web application built on ASP.NET Core Razor Pages, Entity Framework Core, and MS SQL Server. Adheres strictly to S.O.L.I.D software design principles and features automated conflict-checking algorithms, holiday API integrations, and an automated SMTP email service.
