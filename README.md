@@ -13,8 +13,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,cs,dotnet,cpp,html,css,js,mysql&theme=dark" alt="My Skills" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=r,py,cs,dotnet,cpp,html,css,js&theme=dark" alt="My Skills" />
+  </a><br><br>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
 </p>
 
 ---
